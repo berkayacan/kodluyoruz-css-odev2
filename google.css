@@ -1,0 +1,43 @@
+.googleimg{
+    display: block;
+    margin: auto;
+}
+.search{
+    background-color: #EEEEEE;
+    display: block;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    text-align: center;
+}
+.box_1{
+    background-color: #7EE5DA;
+    width: 615px;
+    height: 70px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-left: 100px;
+    margin-bottom: 5px;
+    text-align: center;
+}
+.box_2{
+    background-color: #70CCC2;
+    text-align: center;
+    width: 323px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-size: small;
+    margin-left: 38.5%;
+    margin-top: -83px;
+    border-collapse: separate;
+    height: 72px;
+}
+.box_3{
+    background-color: #62B3AA;
+    font-size: small;
+    text-align: center;
+    width: 720px;
+    margin-left: 55.93%;
+    margin-top: -83px;
+    height: 83px;
+}
